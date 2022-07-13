@@ -1,0 +1,842 @@
+[
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Rex",
+        "varsta" : 96,
+        "culoare" : "alb",
+        "defect": "hiperactiv",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a40c_kfge8p",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229446/samples/avatar/animals/a40c_kfge8p.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Jumbo",
+        "varsta": 132,
+        "culoare" : "gri",
+        "defect": "zgomotos",
+        "calitate": "dresat",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a39c_pgg4zz",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229446/samples/avatar/animals/a39c_pgg4zz.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Bimbo",
+        "varsta" : 48,
+        "culoare" : "maro",
+        "defect": "fricos",
+        "calitate": "iubitor",
+        "stareSanatate": "auz deteriorat",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a37c_ocxazv",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229446/samples/avatar/animals/a37c_ocxazv.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Bella",
+        "varsta" : 60,
+        "culoare" : "negru",
+        "defect": "obraznic",
+        "calitate": "jucaus",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a38c_cq3jv8",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229446/samples/avatar/animals/a38c_cq3jv8.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Dixie",
+        "varsta" : 36,
+        "culoare" : "maro",
+        "defect": "schiop",
+        "calitate": "istet",
+        "stareSanatate": "probleme la un picior",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a36c_thos8j",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229446/samples/avatar/animals/a36c_thos8j.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Champ",
+        "varsta" : 60,
+        "culoare" : "maro",
+        "defect": "nedresat",
+        "calitate": "loial",
+        "stareSanatate": "probleme cu vederea",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a31c_odokpi",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a31c_odokpi.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Smiley",
+        "varsta" : 120,
+        "culoare" : "negru",
+        "defect": "schiop",
+        "calitate": "iubitor",
+        "stareSanatate": "dementa",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a29c_rxwh3i",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a29c_rxwh3i.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Lucky",
+        "varsta" : 48,
+        "culoare" : "maro",
+        "defect": "nedresat",
+        "calitate": "loial",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a33c_jxbprp",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a33c_jxbprp.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Maggie",
+        "varsta" : 120,
+        "culoare" : "maro",
+        "defect": "fricos",
+        "calitate": "iubitor",
+        "stareSanatate": "probleme la un picior",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a35c_olw5dw",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a35c_olw5dw.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Daisy",
+        "varsta" : 12,
+        "culoare" : "crem",
+        "defect": "zgomotos",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a34c_qzdpsc",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a34c_qzdpsc.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Puffy",
+        "varsta" : 12,
+        "culoare" : "negru",
+        "defect": "obraznic",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a32c_zoehkw",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a32c_zoehkw.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Dumbo",
+        "varsta" : 24,
+        "culoare" : "negru",
+        "defect": "obraznic",
+        "calitate": "jucaus",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a30c_igwdjb",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a30c_igwdjb.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Ela",
+        "varsta" : 48,
+        "culoare" : "negru",
+        "defect": "nedresat",
+        "calitate": "loial",
+        "stareSanatate": "probleme cu stomacul",
+        "sex":"Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a28c_pjxyku",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229445/samples/avatar/animals/a28c_pjxyku.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Eros",
+        "varsta" : 48,
+        "culoare" : "crem",
+        "defect": "fricos",
+        "calitate": "loial",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a27c_zxrkeb",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a27c_zxrkeb.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Dora",
+        "varsta" : 12,
+        "culoare" : "maro",
+        "defect": "hiperactiv",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a23c_vytpjm",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a23c_vytpjm.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Bruno",
+        "varsta" : 48,
+        "culoare" : "alb",
+        "defect": "zgomotos",
+        "calitate": "istet",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a26c_dakh2b",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a26c_dakh2b.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Kira",
+        "varsta" : 60,
+        "culoare" : "maro",
+        "defect": "nedresat",
+        "calitate": "jucaus",
+        "stareSanatate": "probleme cu vederea",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a25c_-_Copie_rdypd4",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a25c_-_Copie_rdypd4.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Enzo",
+        "varsta" : 72,
+        "culoare" : "maro",
+        "defect": "apatic",
+        "calitate": "loial",
+        "stareSanatate": "subnutrit",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a24c_nsm4b2",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a24c_nsm4b2.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Greta",
+        "varsta" : 108,
+        "culoare" : "crem",
+        "defect": "nedresat",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a22c_fn4dqs",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a22c_fn4dqs.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Helga",
+        "varsta" : 72,
+        "culoare" : "alb",
+        "defect": "apatic",
+        "calitate": "loial",
+        "stareSanatate": "subnutrit",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a21c_tw26i8",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a21c_tw26i8.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Hugo",
+        "varsta" : 120,
+        "culoare" : "negru",
+        "defect": "zgomotos",
+        "calitate": "istet",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a20c_gwffhk",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a20c_gwffhk.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Kia",
+        "varsta" : 24,
+        "culoare" : "alb",
+        "defect": "zgomotos",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a19c_xruff0",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a19c_xruff0.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Leo",
+        "varsta" : 84,
+        "culoare" : "alb",
+        "defect": "obraznic",
+        "calitate": "istet",
+        "stareSanatate": "auz deteriorat",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a18c_qxyddw",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229410/samples/avatar/animals/a18c_qxyddw.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Lola",
+        "varsta" : 12,
+        "culoare" : "crem",
+        "defect": "hiperactiv",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a16c_ws9hgu",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a16c_ws9hgu.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Neo",
+        "varsta" : 156,
+        "culoare" : "negru",
+        "defect": "batran",
+        "calitate": "istet",
+        "stareSanatate": "auz deteriorat",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a17c_wesoa5",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a17c_wesoa5.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Otis",
+        "varsta" : 144,
+        "culoare" : "negru",
+        "defect": "batran",
+        "calitate": "iubitor",
+        "stareSanatate": "probleme cu vederea",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a13c_tchhej",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a13c_tchhej.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Pablo",
+        "varsta" : 36,
+        "culoare" : "negru",
+        "defect": "hiperactiv",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a15c_hw1u11",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a15c_hw1u11.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Reia",
+        "varsta" : 120,
+        "culoare" : "gri",
+        "defect": "zgomotos",
+        "calitate": "energic",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a14c_hnyyou",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a14c_hnyyou.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Toto",
+        "varsta" : 36,
+        "culoare" : "crem",
+        "defect": "fricos",
+        "calitate": "iubitor",
+        "stareSanatate": "probleme la un picior",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a10c_inma88",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a10c_inma88.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Vera",
+        "varsta" : 12, 
+        "culoare" : "negru",
+        "defect": "hiperactiv",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a11c_li4nsg",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a11c_li4nsg.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Ruby",
+        "varsta" : 60,
+        "culoare" : "maro",
+        "defect": "zgomotos",
+        "calitate": "loial",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a12c_kdaftz",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a12c_kdaftz.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Vivi",
+        "varsta" : 6,
+        "culoare" : "negru",
+        "defect": "obraznic",
+        "calitate": "loial",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a9c_j2cxvs",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a9c_j2cxvs.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Sasha",
+        "varsta" : 72,
+        "culoare" : "alb",
+        "defect": "hiperactiv",
+        "calitate": "iubitor",
+        "stareSanatate": "probleme cu vederea",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a8c_up8hue",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a8c_up8hue.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume" : "Relu",
+        "varsta" : 72,
+        "culoare" : "negru",
+        "defect": "fricos",
+        "calitate": "loial",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a7c_ytlc9z",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a7c_ytlc9z.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Coco",
+        "varsta" : 60,
+        "culoare" : "maro",
+        "defect": "zgomotos",
+        "calitate": "dresat",
+        "stareSanatate": "buna",
+        "sex":"Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a5c_mj9uls",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a5c_mj9uls.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Nero",
+        "varsta" : 12,
+        "culoare" : "alb",
+        "defect": "hiperactiv",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a6c_ljilut",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a6c_ljilut.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Minnie",
+        "varsta" : 48,
+        "culoare" : "crem",
+        "defect": "hiperactiv",
+        "calitate": "jucaus",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a4c_qjzikr",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a4c_qjzikr.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Kira",
+        "varsta" : 6,
+        "culoare" : "negru",
+        "defect": "nedresat",
+        "calitate": "iubitor",
+        "stareSanatate": "probleme cu stomacul",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a2c_p1fae1",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229406/samples/avatar/animals/a2c_p1fae1.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Pepe",
+        "varsta" : 48,
+        "culoare" : "crem",
+        "defect": "fricos",
+        "calitate": "istet",
+        "stareSanatate": "probleme cu vederea",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a3c_mm6qm6",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229406/samples/avatar/animals/a3c_mm6qm6.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Caine",
+        "nume": "Dolce",
+        "varsta" : 3,
+        "culoare" : "gri",
+        "defect": "nedresat",
+        "calitate": "iubitor",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a1c_oahp3h",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229406/samples/avatar/animals/a1c_oahp3h.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Pepsi",
+        "varsta" : 5,
+        "culoare" : "neagra",
+        "defect": "hiperactiva",
+        "calitate": "iubitoare",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a20p_asjv4t",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a20p_asjv4t.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Leila",
+        "varsta" : 18,
+        "culoare" : "alba",
+        "defect": "nedresata",
+        "calitate": "jucausa",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a19p_zw4wpz",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229444/samples/avatar/animals/a19p_zw4wpz.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Pita",
+        "varsta" : 36,
+        "culoare" : "gri",
+        "defect": "hiperactiva",
+        "calitate": "iubitoare",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a18p_pfwynr",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229443/samples/avatar/animals/a18p_pfwynr.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Felix",
+        "varsta" : 18,
+        "culoare" : "alba",
+        "defect": "obraznica",
+        "calitate": "loiala",
+        "stareSanatate": "probleme cu vederea",
+        "sex" : "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a17p_ng8gqp",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a17p_ng8gqp.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Tomita",
+        "varsta" : 12,
+        "culoare" : "gri",
+        "defect": "fricoasa",
+        "calitate": "energica",
+        "stareSanatate": "probleme cu stomacul",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a16p_vxycqr",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a16p_vxycqr.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Kitty",
+        "varsta" : 12,
+        "culoare" : "gri",
+        "defect": "nedresata",
+        "calitate": "isteata",
+        "stareSanatate": "probleme cu stomacul",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a15p_drnxb1",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a15p_drnxb1.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Tomy",
+        "varsta" : 120,
+        "culoare" : "alba",
+        "defect": "batrana",
+        "calitate": "dresata",
+        "stareSanatate": "probleme cu vederea",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a13p_dcav9d",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a13p_dcav9d.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Luna",
+        "varsta" : 12,
+        "culoare" : "neagra",
+        "defect": "obraznica",
+        "calitate": "iubitoare",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a14p_y9uilr",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229409/samples/avatar/animals/a14p_y9uilr.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Misha",
+        "varsta" : 12,
+        "culoare" : "portocalie",
+        "defect": "hiperactiva",
+        "calitate": "jucausa",
+        "stareSanatate": "probleme la un picior",
+        "sex":"Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a12p_kbsruv",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a12p_kbsruv.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Boss",
+        "varsta" : 6,
+        "culoare" : "portocalie",
+        "defect": "nedresata",
+        "calitate": "alintata",
+        "stareSanatate": "buna",
+        "sex":"Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a11p_ssrd7e",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a11p_ssrd7e.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Otto",
+        "varsta" : 12,
+        "culoare" : "neagra",
+        "defect": "fricoasa",
+        "calitate": "jucausa",
+        "stareSanatate": "probleme cu vederea",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a10p_sebxal",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a10p_sebxal.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Fifi",
+        "varsta" : 18,
+        "culoare" : "neagra",
+        "defect": "hiperactiva",
+        "calitate": "iubitoare",
+        "stareSanatate": "auz deteriorat",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a9p_rmhbze",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a9p_rmhbze.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Onix",
+        "varsta" : 12,
+        "culoare" : "alba",
+        "defect": "nedresata",
+        "calitate": "jucausa",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a8p_vc01rq",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229408/samples/avatar/animals/a8p_vc01rq.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Oscar",
+        "varsta" : 24,
+        "culoare" : "alba",
+        "defect": "obraznica",
+        "calitate": "isteata",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a7p_rdcsqy",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a7p_rdcsqy.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Junior",
+        "varsta" : 48,
+        "culoare" : "alba",
+        "defect": "fricoasa",
+        "calitate": "energica",
+        "stareSanatate": "probleme cu stomacul",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a6p_ygipz4",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a6p_ygipz4.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Clara",
+        "varsta" : 3,
+        "culoare" : "neagra",
+        "defect": "fricoasa",
+        "calitate": "iubitoare",
+        "stareSanatate": "probleme cu stomacul",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a5p_oexezl",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a5p_oexezl.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Lia",
+        "varsta" : 36,
+        "culoare" : "alba",
+        "defect": "nedresata",
+        "calitate": "energica",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a4p_abe5pc",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229407/samples/avatar/animals/a4p_abe5pc.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Tony",
+        "varsta" : 60,
+        "culoare" : "alba",
+        "defect": "fricoasa",
+        "calitate": "energica",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a3p_vtifwc",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229406/samples/avatar/animals/a3p_vtifwc.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Misy",
+        "varsta" : 60,
+        "culoare" : "alba",
+        "defect": "hiperactiva",
+        "calitate": "alintata",
+        "stareSanatate": "buna",
+        "sex": "Femela",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a1p1_ao4hfd",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229406/samples/avatar/animals/a1p1_ao4hfd.jpg"
+        }]
+    },
+    {
+        "tipAnimal" : "Pisica",
+        "nume": "Samy",
+        "varsta" : 24,
+        "culoare" : "gri",
+        "defect": "obraznica",
+        "calitate": "energica",
+        "stareSanatate": "buna",
+        "sex": "Mascul",
+        "images" : [{
+            "public_id": "samples/avatar/animals/a2p_yarz8q",
+            "url": "https://res.cloudinary.com/dxxxmuvyx/image/upload/v1650229406/samples/avatar/animals/a2p_yarz8q.jpg"
+        }]
+    }  
+]
